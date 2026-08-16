@@ -1,4 +1,4 @@
-public class Experiment2_AddFixed {
+public class AddFixed {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 20;
